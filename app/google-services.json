@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "778065113461",
+    "firebase_url": "https://myapplication3-808ed.firebaseio.com",
+    "project_id": "myapplication3-808ed",
+    "storage_bucket": "myapplication3-808ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778065113461:android:119d72d958891750",
+        "android_client_info": {
+          "package_name": "com.example.tyanai.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778065113461-fmsdtavm0hhcohm59tjuct45630ritr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEXeQjHqBCHw1aOzfZevCnkte3mUuwe-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
